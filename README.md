@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Selvaraj</h1>
-<h3 align="center">A passionate Blockchain Developer from India</h3>
-# 💫 About Me:
+<h3 align="center">A passionate Blockchain Developer from India</h3># 💫 About Me:
 🌱 I’m currently learning Full Stack Blockchain Development, Hyperledger<br>💬 Ask me about Solidity, React<br>📫 How to reach me ashwin240899@gmail.com<br>📄 Know about my experiences https://ash.tiiny.site/<br>⚡ Fun fact I think I am funny😅
 
 
