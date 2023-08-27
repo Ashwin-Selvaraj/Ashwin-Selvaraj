@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwin Selvaraj</h1>
 <h3 align="center">A passionate Blockchain Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashwin-Selvaraj&label=Profile%20views&color=0e75b6&style=flat" alt="helloashwin" /> </p>
 # 💫 About Me:
 🌱 I’m currently learning Full Stack Blockchain Development, Hyperledger<br>💬 Ask me about Solidity, React<br>📫 How to reach me ashwin240899@gmail.com<br>📄 Know about my experiences https://ash.tiiny.site/<br>⚡ Fun fact I think I am funny😅
 
@@ -23,6 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashwin-Selvaraj&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ashwin-Selvaraj&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
